@@ -144,6 +144,10 @@
 
 > Here you can check out videos I recorded, showing how the project works and its features, I hope you like it.
 
+
+[![Watch the video](https://i3.ytimg.com/vi/iRUhYC6w2pI/hqdefault.jpg)](https://youtu.be/iRUhYC6w2pI)
+
+
 <div align="center">
 <img src="https://github.com/keowu/testesreadme/blob/main/pics/8.png?raw=true" width="6912" height="400">
 </div>
